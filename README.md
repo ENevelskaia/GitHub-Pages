@@ -1,7 +1,6 @@
 # Добрый день!
 
 Меня зовут Екатерина. Я обучаюсь на курсе Python в Нетологии
-
 ![](https://github.com/ENevelskaia/GitHub-Pages/blob/main/45.JPG)
 
 Мои контакты:<br />
